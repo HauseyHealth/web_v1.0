@@ -1,0 +1,119 @@
+/* ADD CUSTOM CSS TO THE PAGE - THIS AFFECTS ALL DEVICES */
+*#dm *.dmBody *.u_1182216678 {
+ display: block !important;
+ }
+*#dm *.dmBody *.u_1258244129 {
+ display: none !important;
+ }
+*#dm *.dmBody *.u_1924949664 {
+ display: block !important;
+ }
+*#dm *.dmBody *.u_1457365381 {
+ display: none !important;
+ }
+*#dm *.dmBody *.u_1941404406 {
+ display: block !important;
+ }
+*#dm *.dmBody *.u_1010798303 {
+ display: none !important;
+ }
+*#dm *.dmBody *.u_1343455892 {
+ display: block !important;
+ }
+*#dm *.dmBody *.u_1635318374 {
+ display: none !important;
+ }
+*#dm *.dmBody div.u_1606391356 *.caption-container *.caption-title {
+ font-weight: bold !important;
+ }
+*#dm *.dmBody *.u_1606391356 *.caption-inner {
+ border-bottom-left-radius: 0px !important;
+ -webkit-border-top-right-radius: 0px !important;
+ -moz-border-top-right-radius: 0px !important;
+ -webkit-border-bottom-right-radius: 0px !important;
+ -webkit-border-bottom-left-radius: 0px !important;
+ border-top-right-radius: 0px !important;
+ -webkit-border-top-left-radius: 0px !important;
+ border-radius: 0px !important;
+ -moz-border-bottom-right-radius: 0px !important;
+ -moz-border-top-left-radius: 0px !important;
+ border-top-left-radius: 0px !important;
+ -moz-border-radius: 0px !important;
+ -moz-border-bottom-left-radius: 0px !important;
+ border-bottom-right-radius: 0px !important;
+ -webkit-border-radius: 0px !important;
+ }
+*#dm *.dmBody *.u_1065876626:before {
+ opacity: 0.5 !important;
+ background-color: rgb(255, 255, 255) !important;
+ }
+*#dm *.dmBody *.u_1065876626.before {
+ opacity: 0.5 !important;
+ background-color: rgb(255, 255, 255) !important;
+ }
+*#dm *.dmBody div.dmforminput textarea {
+ font-style: italic !important;
+ }
+*#dm *.dmBody div.dmforminput *.fileUploadLink {
+ font-style: italic !important;
+ }
+*#dm *.dmBody div.checkboxwrapper span {
+ font-style: italic !important;
+ }
+*#dm *.dmBody div.radiowrapper span {
+ font-style: italic !important;
+ }
+*#dm *.dmBody *.u_1491407614 {
+ display: block !important;
+ }
+*#dm *.dmBody *.u_1545638063 {
+ display: none !important;
+ }
+*#dm *.dmBody *.u_1405246259 {
+ display: block !important;
+ }
+*#dm *.dmBody *.u_1322403126 {
+ display: none !important;
+ }
+*#dm *.dmBody *.u_1646011351 {
+ display: block !important;
+ }
+*#dm *.dmBody *.u_1631469260 {
+ display: none !important;
+ }
+*#dm *.dmBody *.u_1188066147 {
+ display: block !important;
+ }
+*#dm *.dmBody *.u_1383374626 {
+ display: none !important;
+ }
+*#dm *.dmBody div.u_1606391356 *.caption-inner {
+ background-color: rgba(255, 255, 255, 0.74) !important;
+ }
+*#dm *.dmBody div.u_1065876626:before {
+ background-color: rgba(0, 0, 0, 1) !important;
+ opacity: 0.25 !important;
+ }
+*#dm *.dmBody div.u_1065876626.before {
+ background-color: rgba(0, 0, 0, 1) !important;
+ opacity: 0.25 !important;
+ }
+*#dm *.dmBody div.u_1065876626 {
+ background-repeat: no-repeat !important;
+ background-image: url('https://cdn.website-editor.net/md/dmtmpl/dms3rep/multi/creative-team-meeting.jpg') !important;
+ }
+*#dm *.dmBody div.u_1240949052 hr {
+ color: rgba(255, 255, 255, 1) !important;
+ background: none !important;
+ height: 0px !important;
+ background-color: transparent !important;
+ background-size: initial !important;
+ min-height: 0px !important;
+ border-color: currentColor !important;
+ border-width: 1px !important;
+ border-top-style: solid !important;
+ border-top-width: 2px !important;
+ }
+*#dm *.dmBody div.u_1088715090 {
+ line-height: 150% !important;
+ }
