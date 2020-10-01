@@ -1,0 +1,139 @@
+*#dm *.dmBody div.u_1156418759 *.cartIcon
+{
+	font-family:Roboto !important;
+}
+*#dm *.dmBody div.u_1156418759 *.cartItems
+{
+	font-family:Roboto !important;
+}
+*#dm *.dmBody *.u_1430326443 *.dmStoreSearchInput
+{
+	padding-left:18px !important;
+	padding-right:18px !important;
+	text-align:LEFT !important;
+}
+*#dm *.dmBody div.u_1430326443 *.dmStoreSearchInput
+{
+	border-style:solid !important;
+	border-width:0px !important;
+	border-bottom-width:1px !important;
+	border-bottom-style:solid !important;
+	color:rgba(51, 51, 51, 1) !important;
+	border-bottom-color:rgba(208, 209, 211, 1) !important;
+	box-shadow:none !important;
+	-moz-box-shadow:none !important;
+	-webkit-box-shadow:none !important;
+	border-radius:0px !important;
+	-moz-border-radius:0px !important;
+	-webkit-border-radius:0px !important;
+	background-color:rgba(0, 0, 0, 0) !important;
+}
+*#dm *.dmBody div.u_1661522082 *.grid-product__title-inner
+{
+	font-weight:bold !important;
+}
+*#dm *.dmBody *.u_1661522082 *.ecwid-productBrowser.ecwid-productBrowser-CategoryPage div.ecwid-productBrowser-productNameLink a
+{
+	text-align:CENTER !important;
+}
+*#dm *.dmBody div.u_1661522082 *.grid-product__price-amount
+{
+	color:rgb(148, 148, 148) !important;
+}
+*#dm *.dmBody div.u_1661522082 *.ecwid-productBrowser-details-qtyLabel
+{
+	color:rgba(34, 34, 34, 1) !important;
+	font-weight:normal !important;
+}
+*#dm *.dmBody div.u_1661522082 *.ecwid-productBrowser-details-qtyTextField
+{
+	color:rgba(34, 34, 34, 1) !important;
+	font-weight:normal !important;
+}
+*#dm *.dmBody *.u_1661522082 *.ecwid-btn--primary
+{
+	text-align:CENTER !important;
+}
+*#dm *.dmBody div.u_1661522082 *.ecwid-productBrowser-sku
+{
+	color:rgba(34, 34, 34, 1) !important;
+	font-weight:normal !important;
+	display:none !important;
+}
+*#dm *.dmBody div.u_1661522082 *.ecwid-productBrowser-details div.ecwid-productBrowser-price
+{
+	color:rgb(148, 148, 148) !important;
+}
+*#dm *.dmBody div.u_1661522082 *.grid-category__title-inner
+{
+	font-weight:normal !important;
+	color:rgba(51, 51, 51, 1) !important;
+}
+*#dm *.dmBody div.u_1661522082 *.ecwid-btn--secondary
+{
+	color:rgba(123, 123, 123, 1) !important;
+	background-color:rgba(247, 247, 248, 1) !important;
+	border-style:solid !important;
+	border-width:0px !important;
+	border-bottom-style:solid !important;
+}
+*#dm *.dmBody div.u_1661522082 *.ecwid-btn--secondary:hover
+{
+	font-weight:normal !important;
+	color:rgba(255, 255, 255, 1) !important;
+	background-color:rgba(208, 209, 211, 1) !important;
+}
+*#dm *.dmBody div.u_1661522082 *.ecwid-btn--secondary.hover
+{
+	font-weight:normal !important;
+	color:rgba(255, 255, 255, 1) !important;
+	background-color:rgba(208, 209, 211, 1) !important;
+}
+*#dm *.dmBody div.u_1661522082 div.ecwid-productBrowser-categoryPath
+{
+	border-color:rgba(223, 224, 225, 1) !important;
+}
+*#dm *.dmBody div.u_1661522082 *.ecwid-productBrowser-CartPage *.ecwid-productBrowser-head
+{
+	border-color:rgba(223, 224, 225, 1) !important;
+}
+*#dm *.dmBody div.u_1661522082 table.ecwid-ProductsList-content
+{
+	border-color:rgba(223, 224, 225, 1) !important;
+}
+*#dm *.dmBody div.u_1661522082 div.ecwid-Invoice-cell-title
+{
+	border-color:rgba(223, 224, 225, 1) !important;
+}
+*#dm *.dmBody div.u_1661522082 td.ecwid-productBrowser-cart-itemsTable-cell
+{
+	border-color:rgba(223, 224, 225, 1) !important;
+}
+*#dm *.dmBody div.u_1661522082 td.ecwid-Invoice-itemsTable-cell-last
+{
+	border-color:rgba(223, 224, 225, 1) !important;
+}
+*#dm *.dmBody div.u_1661522082 td.ecwid-Invoice-itemsTable-cell
+{
+	border-color:rgba(223, 224, 225, 1) !important;
+}
+*#dm *.dmBody div.u_1661522082 tr.ecwid-productBrowser-cart-itemsTable-row-selected
+{
+	border-color:rgba(223, 224, 225, 1) !important;
+}
+*#dm *.dmBody div.u_1661522082 td.ecwid-productBrowser-cart-itemsTable-cell-selected
+{
+	border-color:rgba(223, 224, 225, 1) !important;
+}
+*#dm *.dmBody *.u_1661522082 *.page-title__name
+{
+	text-align:LEFT !important;
+}
+*#dm *.dmBody *.u_1661522082 *.ec-store__category-page *.page-title__name
+{
+	text-align:CENTER !important;
+}
+*#dm *.dmBody *.u_1661522082 *.ec-store__category-page *.ec-page-title__name
+{
+	text-align:CENTER !important;
+}
